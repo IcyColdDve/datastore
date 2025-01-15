@@ -1,1 +1,1 @@
-"hello"
+local hello = print("Hello")
