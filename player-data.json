@@ -1,18 +1,3 @@
 {
-    "Player1": {
-        "Bcks": 100,
-        "Level": 5
-    },
-    "Player2": {
-        "Bcks": 250,
-        "Level": 10
-    }
-    "bobertus00": {
-        "Bcks": 250,
-        "Level": 10
-    }
-    "Player23": {
-        "Bcks": 250,
-        "Level": 10
-    }
+    "G_Bcks": 0
 }
