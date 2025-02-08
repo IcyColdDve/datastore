@@ -1,0 +1,10 @@
+{
+    "Player1": {
+        "Bcks": 100,
+        "Level": 5
+    },
+    "Player2": {
+        "Bcks": 250,
+        "Level": 10
+    }
+}
